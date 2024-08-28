@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Tu2/LHBTDT0oAubkGFXMrTIcucPIvcNxFBTzIeErdD0=",
+  "Source": "QuizTeam.WebApi",
+  "BasePath": "_content/QuizTeam.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

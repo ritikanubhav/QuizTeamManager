@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizTeam.Data", "QuizTeam.Data.csproj", "{C65A7F5D-9F64-42F9-8305-CA9C679584F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataLayer", "DataLayer", "{3FF690B7-0865-4ABA-8547-54D51116895E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizTeam.Domain", "..\QuizTeam.Domain\QuizTeam.Domain.csproj", "{2C7E3C97-A19C-481F-A719-0F8EB4DFAA2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DomainLayer", "DomainLayer", "{5F62D0CC-1C5A-41CF-8F2B-72AAD2C62D8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizTeam.WebApi", "..\QuizTeam.WebApi\QuizTeam.WebApi.csproj", "{8A2EC4A7-7209-422C-A787-18A258A8E82D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiLayer", "ApiLayer", "{70F5AC86-40DD-4583-87AC-B2E5E03F3777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizTeam.Web", "..\QuizTeam.Web\QuizTeam.Web.csproj", "{F39B72AA-DDA2-4DC7-BFFB-770AF5C8E00D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PresentationLayer", "PresentationLayer", "{FBBBFBBE-074F-411F-A5A4-B525727C5085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C65A7F5D-9F64-42F9-8305-CA9C679584F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C65A7F5D-9F64-42F9-8305-CA9C679584F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C65A7F5D-9F64-42F9-8305-CA9C679584F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C65A7F5D-9F64-42F9-8305-CA9C679584F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7E3C97-A19C-481F-A719-0F8EB4DFAA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7E3C97-A19C-481F-A719-0F8EB4DFAA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7E3C97-A19C-481F-A719-0F8EB4DFAA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7E3C97-A19C-481F-A719-0F8EB4DFAA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A2EC4A7-7209-422C-A787-18A258A8E82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A2EC4A7-7209-422C-A787-18A258A8E82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A2EC4A7-7209-422C-A787-18A258A8E82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A2EC4A7-7209-422C-A787-18A258A8E82D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F39B72AA-DDA2-4DC7-BFFB-770AF5C8E00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39B72AA-DDA2-4DC7-BFFB-770AF5C8E00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39B72AA-DDA2-4DC7-BFFB-770AF5C8E00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39B72AA-DDA2-4DC7-BFFB-770AF5C8E00D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C65A7F5D-9F64-42F9-8305-CA9C679584F2} = {3FF690B7-0865-4ABA-8547-54D51116895E}
+		{2C7E3C97-A19C-481F-A719-0F8EB4DFAA2E} = {5F62D0CC-1C5A-41CF-8F2B-72AAD2C62D8F}
+		{8A2EC4A7-7209-422C-A787-18A258A8E82D} = {70F5AC86-40DD-4583-87AC-B2E5E03F3777}
+		{F39B72AA-DDA2-4DC7-BFFB-770AF5C8E00D} = {FBBBFBBE-074F-411F-A5A4-B525727C5085}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF9DC487-698A-4616-A792-93A7DF36295F}
+	EndGlobalSection
+EndGlobal

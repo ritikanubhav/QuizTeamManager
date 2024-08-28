@@ -1,0 +1,50 @@
+﻿@model IEnumerable<QuizTeam.Domain.Entities.Team>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>QUIZ TEAM</h1>
+<div class="alert-info">@TempData["Message"]</div>
+<div class="container mt-5">
+    <form asp-action="Add" asp-controller="Team">
+    <label for="memberSelect" class="form-label">Select Member:</label>
+    <select id="memberSelect" class="form-select" name="memberId" aria-label="Member select">
+        @foreach (var item in ViewBag.members)
+        {
+            <option value="@item.Id" >@item.Name</option>
+        }
+    </select>
+    <label class="form-label">Select a Team:</label>
+    <div id="teamOptions" class="form-check">
+        @foreach(var item in Model)
+        {
+            <div class="form-check">
+                    <input class="form-check-input" type="radio" name="teamId" id="@item.Name"  value="@item.TeamId" >
+                <label class="form-check-label" for="@item.Name">@item.Name</label>
+            </div>
+        }
+    </div>
+        <input type="submit" id="addMemberBtn" class="btn btn-primary mt-3" value="Add to Team" >
+    </form>
+</div>
+
+
+
+
+@foreach(var item in Model)
+{
+    <div class="container mt-5">
+    <form asp-action="Remove" asp-controller="Team">
+
+        <label for="teamMembers" class="form-label">@item.Name</label>
+        <select id="teamMembers" class="form-select" multiple aria-label="Team Members">
+            @foreach (var member in item.Members)
+            {
+                <option value="@member.Id" asp-route-member="@member">@member.Name</option>
+            }
+        </select>
+        <button type="submit" id="addMemberBtn" class="btn btn-danger mt-3" >Remove From @item.Name</button>
+    </form>
+    </div>
+}

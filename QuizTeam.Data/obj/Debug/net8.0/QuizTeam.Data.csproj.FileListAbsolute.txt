@@ -1,0 +1,17 @@
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Data\bin\Debug\net8.0\QuizTeam.Data.deps.json
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Data\bin\Debug\net8.0\QuizTeam.Data.runtimeconfig.json
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Data\bin\Debug\net8.0\QuizTeam.Data.dll
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Data\bin\Debug\net8.0\QuizTeam.Data.pdb
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Data\bin\Debug\net8.0\QuizTeam.Domain.dll
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Data\bin\Debug\net8.0\QuizTeam.Domain.pdb
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Data\obj\Debug\net8.0\QuizTeam.Data.csproj.AssemblyReference.cache
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Data\obj\Debug\net8.0\QuizTeam.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Data\obj\Debug\net8.0\QuizTeam.Data.AssemblyInfoInputs.cache
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Data\obj\Debug\net8.0\QuizTeam.Data.AssemblyInfo.cs
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Data\obj\Debug\net8.0\QuizTeam.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Data\obj\Debug\net8.0\QuizTeam.11DCFAC8.Up2Date
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Data\obj\Debug\net8.0\QuizTeam.Data.dll
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Data\obj\Debug\net8.0\refint\QuizTeam.Data.dll
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Data\obj\Debug\net8.0\QuizTeam.Data.pdb
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Data\obj\Debug\net8.0\QuizTeam.Data.genruntimeconfig.cache
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Data\obj\Debug\net8.0\ref\QuizTeam.Data.dll

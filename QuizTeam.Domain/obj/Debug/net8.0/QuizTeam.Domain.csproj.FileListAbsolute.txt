@@ -1,0 +1,11 @@
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Domain\bin\Debug\net8.0\QuizTeam.Domain.deps.json
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Domain\bin\Debug\net8.0\QuizTeam.Domain.dll
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Domain\bin\Debug\net8.0\QuizTeam.Domain.pdb
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Domain\obj\Debug\net8.0\QuizTeam.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Domain\obj\Debug\net8.0\QuizTeam.Domain.AssemblyInfoInputs.cache
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Domain\obj\Debug\net8.0\QuizTeam.Domain.AssemblyInfo.cs
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Domain\obj\Debug\net8.0\QuizTeam.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Domain\obj\Debug\net8.0\QuizTeam.Domain.dll
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Domain\obj\Debug\net8.0\refint\QuizTeam.Domain.dll
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Domain\obj\Debug\net8.0\QuizTeam.Domain.pdb
+C:\Users\Ritik.Anubhav\source\repos\QuizTeam.Domain\obj\Debug\net8.0\ref\QuizTeam.Domain.dll
